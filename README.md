@@ -277,5 +277,4 @@ bagel       2
 
 - [PostgreSQL SELECT](https://www.postgresql.org/docs/current/sql-select.html)   
 - [PostgreSQL ORDER BY](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-order-by/)     
-- [PostgreSQL GROUP BY](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-group-by/)     
-- 
+- [PostgreSQL GROUP BY](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-group-by/)  
