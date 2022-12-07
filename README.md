@@ -60,13 +60,13 @@ ascending order of calories.
 </td>
 <td>
 
-```text
+<pre>
 name                calories
 
 good morning wrap   180
 veggie wrap         250
 plain bagel         270
-```
+</pre>
 
 </td>
 </tr>
@@ -83,12 +83,12 @@ descending order of price.
 </td>
 <td>
 
-```text
+<pre>
 name                            price
 
 plain bagel with cream cheese   2.09
 plain bagel                     0.99
-```
+</pre>
 
 </td>
 </tr>
@@ -105,13 +105,13 @@ ascending order of name.
 </td>
 <td>
 
-```text
+<pre>
 name
 
 bacon egg and cheese bagel
 egg and cheese bagel
 veggie wrap
-```
+</pre>
 
 </td>
 </tr>
@@ -132,14 +132,14 @@ ascending order of category.
 </td>
 <td>
 
-```text
+<pre>
 name                category                 
 
 blueberry muffin    muffin
 corn muffin         muffin
 good morning wrap   wrap
 veggie wrap         wrap
-```
+</pre>
 
 </td>
 </tr>
@@ -156,14 +156,14 @@ ascending order of calories.
 </td>
 <td>
 
-```text
+<pre>
 name                            calories
 
 veggie wrap                     250
 plain bagel                     270
 plain bagel with cream cheese   350
 egg and cheese bagel            420
-```
+</pre>
 
 </td>
 </tr>
@@ -176,11 +176,11 @@ of rows, along with the min and max price.
 </td>
 <td>
 
-```text
+<pre>
 count   min     max
 
 8       0.99    5.89
-```
+</pre>
 
 </td>
 </tr>
@@ -194,11 +194,11 @@ among wraps.
 </td>
 <td>
 
-```text
+<pre>
 count   min     max
 
 2       180     250
-```
+</pre>
 
 </td>
 </tr>
@@ -214,13 +214,13 @@ Sort the results in ascending order of count.
 </td>
 <td>
 
-```text
+<pre>
 category   count
 
 muffin      2
 wrap        2
 bagel       4
-```
+</pre>
 
 </td>
 </tr>
@@ -237,12 +237,12 @@ Sort the results in ascending order of count.
 </td>
 <td>
 
-```text
+<pre>
 category    count
 
 wrap        1
 bagel       2
-```
+</pre>
 
 </td>
 </tr>
@@ -260,11 +260,11 @@ where the count is more than 1.
 </td>
 <td>
 
-```text
+<pre>
 category    count
 
 bagel       2
-```
+</pre>
 
 </td>
 </tr>
